@@ -1,0 +1,97 @@
+[
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Gary",
+      "last": "Gibson"
+    },
+    "id": {
+      "name": "TFN",
+      "value": "929683915"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/15.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/15.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/15.jpg"
+    },
+    "nat": "AU",
+    "email": "gary.gibson@example.com"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Olimpiada",
+      "last": "Povstenko"
+    },
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/32.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
+    },
+    "nat": "UA",
+    "email": "olimpiada.povstenko@example.com"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Alvaro",
+      "last": "Bertrand"
+    },
+    "id": {
+      "name": "AVS",
+      "value": "756.2453.2136.60"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/61.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/61.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/61.jpg"
+    },
+    "nat": "CH",
+    "email": "alvaro.bertrand@example.com"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Marilou",
+      "last": "Gagné"
+    },
+    "id": {
+      "name": "SIN",
+      "value": "568404826"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/8.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+    },
+    "nat": "CA",
+    "email": "marilou.gagné@example.com"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Romane",
+      "last": "Sanchez"
+    },
+    "id": {
+      "name": "INSEE",
+      "value": "2631196681362 86"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/85.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/85.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
+    },
+    "nat": "FR",
+    "email": "romane.sanchez@example.com"
+  }
+]
